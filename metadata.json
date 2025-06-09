@@ -1,0 +1,6 @@
+{
+  "name": "Budget Allocation Simulator - India",
+  "description": "A web application where users act as India's Finance Minister to allocate budget across sectors and simulate economic outcomes. Features sliders, dynamic calculations for GDP, employment, inflation, happiness, and a visual chart of allocations.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
